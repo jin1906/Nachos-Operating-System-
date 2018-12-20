@@ -9,6 +9,4 @@ Processes sometimes (in fact frequently) need to communicate with other processe
 
 In this project, we have three server threads, Server 0, Server 1, and Server 2; each server reads from its own designated file that contains only partial data of an image and writes the data to a shared buffer, Buffer. Two client threads then read from the buffer and print the content of the buffer to screen, which results a reconstructed ASCII image of a cartoon character.
 
-src="https://user-images.githubusercontent.com/28322834/40059740-e62c76ee-5822-11e8-8619-e26b8e721bc0.png">
-
-https://github.com/jin1906/Nachos-Operating-System-/issues/1#issue-392843690
+![screen shot 2018-12-19 at 8 01 06 pm](https://user-images.githubusercontent.com/28322834/50257797-d39bf000-03ca-11e9-8f50-2c4d1954c4ca.png)
