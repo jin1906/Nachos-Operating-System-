@@ -1,5 +1,4 @@
-
-- Nachos Operating System
+Nachos Operating System
 
 Nachos, is instructional software for teaching undergraduate, and potentially graduate level operating systems courses. It was developed at the University of California, Berkeley, designed by Thomas Anderson, and is used by numerous schools around the world. Originally written in C++ for MIPS.
 
